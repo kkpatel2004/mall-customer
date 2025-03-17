@@ -1,8 +1,3 @@
-# Mall-Customer
-Here's a GitHub introduction for your **Mall Customer** project:  
-
----
-
 # Mall Customer Analysis  
 
 ## 📌 Overview  
