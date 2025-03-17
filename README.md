@@ -26,8 +26,6 @@ The project helps identify high-value customers, budget shoppers, and average sp
 
 Here's the **Installation Process** section you can add to your GitHub README:  
 
----
-
 ## 🚀 Installation Process  
 
 Follow these steps to set up the project on your local system:  
@@ -60,3 +58,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 jupyter notebook
 ```
 - Open `mall_customer.ipynb` and start exploring the dataset!  
+
+---
